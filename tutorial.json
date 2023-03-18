@@ -617,7 +617,7 @@
               "2b8c6634de7df5aaa329983e0a29410d7b1d6419"
             ]
           },
-          "content": "That one file doesn't appear to have an extension. Strange. Take a look at **more** of the that \"license\" file that doesn't show an extension.",
+          "content": "That one file doesn't appear to have an extension. Strange. Take a look at **more** of that \"license\" file that doesn't show an extension.",
           "hints": [
             "Use the \"more\" command",
             "Enter `more LICENSE-MIT` into the terminal",
